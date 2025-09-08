@@ -1,4 +1,4 @@
-# 💫 About Me:gh
+# 💫 About Me:g
 🔭 I’m currently working on Python projects, Machine Learning models, and fun Flask APIs<br>👯 I’m looking to collaborate on open-source projects, web apps, and anything with ML/DSA<br>🤝 I’m looking for help with deploying ML models and scaling real-world applications<br>🌱 I’m currently learning advanced SQL, frontend development, and refining my DSA skills<br>💬 Ask me about Python, C/C++, SQL, Machine Learning basics, and building small projects<br>⚡ Fun fact: I enjoy turning simple ideas into projects that actually work 🚀
 
 
