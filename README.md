@@ -2,7 +2,7 @@
 🔭 I’m currently working on Python projects, Machine Learning models, and fun Flask APIs<br>👯 I’m looking to collaborate on open-source projects, web apps, and anything with ML/DSA<br>🤝 I’m looking for help with deploying ML models and scaling real-world applications<br>🌱 I’m currently learning advanced SQL, frontend development, and refining my DSA skills<br>💬 Ask me about Python, C/C++, SQL, Machine Learning basics, and building small projects<br>⚡ Fun fact: I enjoy turning simple ideas into projects that actually work 🚀
 
 
-## 🌐 Socials:v
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tushar1920) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_tushar_1920_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/tushar-b5b431296) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://x.com/@tushar1835039) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/@tushar1835039) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tushar-1920) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharsaab8@gmail.com) 
 
 # 💻 Tech Stack:
